@@ -34,3 +34,6 @@ node_modules
 
 # Hidden Files
 .DS_Store
+
+# Build Folder
+app
